@@ -1,0 +1,10 @@
+D:\Coding\C#\Programming Basics with C# - ноември 2018\03. Simple Operations and Calculations - Exercise\04. Tailoring Workshop\bin\Debug\netcoreapp2.1\04. Tailoring Workshop.deps.json
+D:\Coding\C#\Programming Basics with C# - ноември 2018\03. Simple Operations and Calculations - Exercise\04. Tailoring Workshop\bin\Debug\netcoreapp2.1\04. Tailoring Workshop.runtimeconfig.json
+D:\Coding\C#\Programming Basics with C# - ноември 2018\03. Simple Operations and Calculations - Exercise\04. Tailoring Workshop\bin\Debug\netcoreapp2.1\04. Tailoring Workshop.runtimeconfig.dev.json
+D:\Coding\C#\Programming Basics with C# - ноември 2018\03. Simple Operations and Calculations - Exercise\04. Tailoring Workshop\bin\Debug\netcoreapp2.1\04. Tailoring Workshop.dll
+D:\Coding\C#\Programming Basics with C# - ноември 2018\03. Simple Operations and Calculations - Exercise\04. Tailoring Workshop\bin\Debug\netcoreapp2.1\04. Tailoring Workshop.pdb
+D:\Coding\C#\Programming Basics with C# - ноември 2018\03. Simple Operations and Calculations - Exercise\04. Tailoring Workshop\obj\Debug\netcoreapp2.1\04. Tailoring Workshop.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Programming Basics with C# - ноември 2018\03. Simple Operations and Calculations - Exercise\04. Tailoring Workshop\obj\Debug\netcoreapp2.1\04. Tailoring Workshop.AssemblyInfoInputs.cache
+D:\Coding\C#\Programming Basics with C# - ноември 2018\03. Simple Operations and Calculations - Exercise\04. Tailoring Workshop\obj\Debug\netcoreapp2.1\04. Tailoring Workshop.AssemblyInfo.cs
+D:\Coding\C#\Programming Basics with C# - ноември 2018\03. Simple Operations and Calculations - Exercise\04. Tailoring Workshop\obj\Debug\netcoreapp2.1\04. Tailoring Workshop.dll
+D:\Coding\C#\Programming Basics with C# - ноември 2018\03. Simple Operations and Calculations - Exercise\04. Tailoring Workshop\obj\Debug\netcoreapp2.1\04. Tailoring Workshop.pdb
