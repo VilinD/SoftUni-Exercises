@@ -1,4 +1,4 @@
-#!"D:\Coding\Python\Programming Basics with Python - ноември 2018\First Steps In Coding\venv\Scripts\python.exe" -x
+#!"D:\Coding\Python\Programming Basics with Python - ноември 2018\venv\Scripts\python.exe" -x
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==10.0.1','console_scripts','pip3'
 __requires__ = 'pip==10.0.1'
 import re

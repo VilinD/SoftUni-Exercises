@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="D:\Coding\Python\Programming Basics with Python - ноември 2018\First Steps In Coding\venv"
+$env:VIRTUAL_ENV="D:\Coding\Python\Programming Basics with Python - ноември 2018\venv"
 
 if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     # Set the prompt to include the env name
